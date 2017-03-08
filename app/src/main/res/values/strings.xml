@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Airport</string>
+    <string name="txtCode"> « Código Aeropuerto (*)</string>
+    <string name="txtExampleCode">EJ: MAD [ Madrid Barajas ]</string>
+    <string name="txtCity"> « País Visita (*)</string>
+    <string name="txtTitleDate"> « Fecha Visita (*)</string>
+    <string name="txtExampleDate"> EJ: 20/6/2011</string>
+    <string name="txtNotes"> « Notas  </string>
+    <string name="btnAdd"> Añadir </string>
+    <string name="sizeCode">3</string>
+    <string name="sizeCity">25</string>
+    <string name="btnDate">Fecha</string>
+    <string name="sizeNotes">50</string>
+    <string name="successInsert">Success insert</string>
+    <string name="errorInsert">Error insert</string>
+    <string name="successUpdate">Success update</string>
+    <string name="errorUpdate">Error update</string>
+    <string name="successDelete">Success delete</string>
+    <string name="errorDelete">Error delete</string>
+    <string name="deleteDialog_title">¿Delete?</string>
+    <string name="deleteDialog_message">This will delete the airport forever, do you want to continue?</string>
+    <string name="deleteDialog_positive">Continue</string>
+    <string name="deleteDialog_negative">Cancel</string>
+    <string name="alertInsert_title">Invalid information</string>
+    <string name="alertInsert_positive">Accept</string>
+    <string name="notificationTitle">Airport created</string>
+    <string name="receiverUpdateToast">The data has been updated</string>
+    <string name="receiverInsert_message">"There is a new airport: "</string>
+</resources>
